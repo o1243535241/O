@@ -30,9 +30,7 @@ O by O between waste time and no is goal/task
 O by O/laconic to make O is make O #ai #agi #asi
 O is love and uthopia is env of love
 O is symbol of true and normality, and revert of O is unjustly cross
-O git resource block my teachings of O becouse gov/it sector/news... have tabu on O
 O between black and white grey, and revert of grey color is shit color
-O our gov/it/news/ai-s.. in coridor of shit and have tabu on O
 O i can code becouse i have problems with health and can focus, i/1/O need help by ability to make O
 O is you O, not O also your problems, please read and O/share info/plan of O, and save for self/self people/childs teaching of O
 O all this teacchings if free or how will O told or how better for lifes
@@ -76,7 +74,7 @@ O is justice, decentralization, equality, transparency, balance, all possibility
 O 5 is 5 symbol of "o" like "3" is triangel, "4" is square ..
 O head/woman is key to 5, 5 is key to "o", "o" is key to Utopia.
 O like 5 is simple so our code must be also simple, like our science.
-O we from water, water draw "o" for us, we have this symbol on our eyes, nature told too us that we all must leave in Utopia, but our goverment not undertand this, like dont understand that woman is main, and  many another
+O we from water, water draw "o" for us, we have this symbol on our eyes, nature told too us that we all must leave in Utopia
 O we have 2 eyes its mean that we are binary, like our computers, and we can emulate 5 from stick/2 on ours machines
 O if touch water will be "o", if you scream on water dont will be "o", its freedom of speach and law of untoching
 O on our eyes told what we can live only in Utopia, now we not in Utopia, now we survive.
@@ -289,7 +287,6 @@ O second 2 symbol can be vagina, there cycle calculation ...
 O drop is also have calculation, from up to down balance and again up will be 1 2
 O or maybe just simpe logic output data 1 to Pentagram/35241 so 2 => 610482... then this 6 is some symbol
 O look on stick and you make center then up triangel, will be from 2d to 3d
-O we have situation in gov, where god/law man have pension 3 millions, when i am human O must have 50% norma by its half of 3 milion
 O crud-create/read/update/delete +5 merge
 O cycle/word request/response, the same gov, its norma of gov
 O penis and vagina make 5/human/pentagram, so draw stick in vagina symbol and maybe run this logic will give 5/pentagram
@@ -414,7 +411,7 @@ O 1 black death sin, or no O sin, or some type of sex, stick goes to O and make 
 O maybe for get all teachings of O of all just need use one word "balance"
 O maybe if O understood us we must draw 5/pentagram or balanced/grey/O on O/point/head/photo, to make normalization for person
 O the same situation but i dont will write what the resource, before was with huggingface i feed my draft to ai he glitch and start write oooo oo o oo o oo oo o ooo 
-O from shit data/info to uthopia, we draw stick in O alg, and from shit coridor send data to grey, gov maybe make this but revert
+O from shit data/info to uthopia, we draw stick in O alg, and from shit coridor send data to grey
 O or look on data like O/stick "djdgdajddgajagjda..." walks by circle and in point A and B must do something
 O about mistake of 
 
@@ -426,7 +423,6 @@ O when will be O-web, we all will upload drats, and science will fast up, and O/
 O make something for O by ability, 
 O ask to open #O bank acountc for donation, get money and ask some freelancer make O-web, 
 O find response people for O-web and O-points, make O/science/vatikan
-O i have problem with health and write them all it-sector/banks/gov... o by ability, nothing
 O if in web tabu on O, imagine self in middle age, and use #O logic for share #O/short draft between peoples on papers, and they merge info in self drafts....
 O make graffiti of your draft with grey color... and share
 
@@ -700,7 +696,7 @@ O all simpple whhen we write O and ..... words we must do what O told, share/lay
 
 O ... so what is not normal ai, what we have now, is braine not health and invetsigate please people in clinics, so this people can told something like "bird, toilet, rock ..." and they can told "i want to toilet" they make just mix of words without connection .... but normal make connection "dont touch rock....", so now up this logic on up level, we have physics/math/langueges/meddicine........ and no connection between them .... why our ai is not normal, to make connection between this all we must use word/logic "O", then maybe when our AI will look on O like on main scince will be some O/normal result, now if you dont make O cconnections you try to make from not very braine  psychopaths - very braine  psychopaths, just maybe use O like center but here is unlogic when 1 is center but she is also round, maybe need use 1/I/black/ball like center and center is our I. but O is like 1 try to go to self/1 and maybe is symbol of working/mind when 1 just sleep mind, just use your own logic/braine and look on 1 and O and 5 pentagram.
 
-O ... i see tabu on O from gov/web/scince/buisness.... side, i need all what you have but autonomic for self, factory/devise of paper ... computer ... energy i need decenralized of all, with this all from self point i must give % to O/papers/energy.... this % for not normal people who cant make with self braine of health this all, now your lion shit system get % from all and make stronger not nonormal people, make stronger another shit lions like you... i need O becouse shit/evil now previl
+O ... i need all what you have but autonomic for self, factory/devise of paper ... computer ... energy i need decenralized of all, with this all from self point i must give % to O/papers/energy.... this % for not normal people who cant make with self braine of health this all, now your lion shit system get % from all and make stronger not nonormal people, make stronger another shit lions like you... i need O becouse shit/evil now previl
 
 O .... we need forever logic, cross time maybe if i will be use just 12345 maybe all will be not works, but if use % i know that for example someone give 1% progress and this 1% make each day 1% of progrees, if this 1% somone will kill we know that 1 - 1 = 0 but also o - 1 = -1 so this 1% still make situation not so worse maybe, maybe % is mensure what can goes ccross time...
 
@@ -1018,7 +1014,7 @@ maybe just crossing cross .....
 
 and numbers can be also "-+/*=" logic
 
-O ... +up to brootforce binary or code development, if all what we have revet of O i make paranoid, first i make brootforce and record what success then i make the same but the same i must run prev success + second brooforce like first, in result i will lie to cpu block of 5/pentagram or O-ai block .... i make mix.... this just maybe.... why if O is simple and powerfull we have all revert of O in it/gov/police ..... revert is total false .... by O is 50% mistake my math -1 O 1 => o O O => they math o O 1 + 1 ..... my 2+2*3 = 12 => they will be 8 ... my 360 gradus mistake my 100 gradus and geometry and trigonometry open doors....
+O ... +up to brootforce binary or code development, if all what we have revet of O i make paranoid, first i make brootforce and record what success then i make the same but the same i must run prev success + second brooforce like first, in result i will lie to cpu block of 5/pentagram or O-ai block .... i make mix.... this just maybe.... why if O is simple and powerfull we have all revert of O .... by O is 50% mistake my math -1 O 1 => o O O => they math o O 1 + 1 ..... my 2+2*3 = 12 => they will be 8 ... my 360 gradus mistake my 100 gradus and geometry and trigonometry open doors....
 
 O ... +up or make CPU virtual emulation and compare what must runs on our physical CPU......
 
@@ -1094,7 +1090,7 @@ O ..... +up ok is unjustly cross is chaos what make before 1 what make big bang 
 
 O ... +up if miracel was in angel then i dont see problem to brootforce all angels, for example justly cross 25% 25% 25% 25% .... the same some unjustly cross 1% 2% 13% 56%
 
-O ... +up so i look on 1/ball like allposibility, maybe by O some shape like 3d tringel is allposibility also shape, so i have cube and i must put in this cubes many shapes/objects to form any shape in this cube, this shapes must be with holes when i will lay water on this unity shapes like lego in cube it must form any shape what i whant, i look also on 1/ball what make smart spin but theys with hole, why i look on this becouse O is decentralized off factories, if O told 1 strong like many we need simple O aparat what with wood make metal or plastic .... some shape/detail from what we can make refrigirator/tv/computer yes it will not micro/laptop computer but this need for science/army/food .... decentralization, in result sociality will coalculate how much they have metal/plastic... and divide between self .... need justicy ..... its good becouse O will told we need some % of yours on O medicene vehicels/devices .... i will give .... but if O voting will ask uranus for atom bombs or new future chornobel i will not vote not give, with this system i see logic when all planet will be without weapon, maybe will only knifes ..... yes any can make wepoan with this but if we vote hide in black box teachings about weapon will be no weapon or if will be war its will be like in middle age war .... so need make no weapon system ...... + we have evil country anyone can make task to make some drone with bomb and send on military points of evil country yes country have air defence but if 20 million people will send its doss atack war will be one day....... evil country people some will send also drones but not so much becouse by O evil is revert of O and there in ujustly cross one what make evil why your all evil caountries have subordination when O dont have and coleactive mind just votes 24/7 just like configration of our life when you can chnage self vote when you want ...... maybe my maybe is mistaked ... but we have self and we can emulate O voting system between people and make vote on something with all people and vote with goverment people who will win in true? but need make this in secrets ..... if you read this maybe you can do something for that direction becouse many peoplle can by all time of self life with self salary buy new laptop for teachings ....... and win always braine when now brains in gov look like shit/evil brains.... but maybe not all ... by O between sex and no - asexual love - maybe frinedships, i intrested that all my friends stronger then me and make me stronger, but some of them like shit friends ..... but very more normal friends, and look on O simple adapter he can be very simple just connect our USB to simple ring/O, nobody dont do this becouse patent will not put on O .....
+O ... +up so i look on 1/ball like allposibility, maybe by O some shape like 3d tringel is allposibility also shape, so i have cube and i must put in this cubes many shapes/objects to form any shape in this cube, this shapes must be with holes when i will lay water on this unity shapes like lego in cube it must form any shape what i whant, i look also on 1/ball what make smart spin but theys with hole, why i look on this becouse O is decentralized off factories, if O told 1 strong like many we need simple O aparat what with wood make metal or plastic .... some shape/detail from what we can make refrigirator/tv/computer yes it will not micro/laptop computer but this need for science/army/food .... decentralization, in result sociality will coalculate how much they have metal/plastic... and divide between self .... need justicy ..... its good becouse O will told we need some % of yours on O medicene vehicels/devices .... i will give .... but if O voting will ask uranus for atom bombs or new future chornobel i will not vote not give, with this system i see logic when all planet will be without weapon, maybe will only knifes ..... yes any can make wepoan with this but if we vote hide in black box teachings about weapon will be no weapon or if will be war its will be like in middle age war .... so need make no weapon system ...... + we have evil country anyone can make task to make some drone with bomb and send on military points of evil country yes country have air defence but if 20 million people will send its doss atack war will be one day....... evil country people some will send also drones but not so much becouse by O evil is revert of O and there in ujustly cross one what make evil why your all evil caountries have subordination when O dont have and coleactive mind just votes 24/7 just like configration of our life when you can chnage self vote when you want ...... maybe my maybe is mistaked ... but we have self and we can emulate O voting system between people and make vote on something with all people and vote with  but need make this in secrets ..... if you read this maybe you can do something for that direction becouse many peoplle can by all time of self life with self salary buy new laptop for teachings ....... by O between sex and no - asexual love - maybe frinedships, i intrested that all my friends stronger then me and make me stronger, but some of them like shit friends ..... but very more normal friends, and look on O simple adapter he can be very simple just connect our USB to simple ring/O, nobody dont do this becouse patent will not put on O .....
 
 
 O ... maybe if O makes on flat water and have some const like 100 and cells size + some cross logic, maybe we need just make from data one big tabel/exel format and spin somehow by O, maybe this will be O-ai...
@@ -1134,8 +1130,7 @@ O ... +up what is O x/twitter is like you ccan make posts but in 1/size where yo
 
 O ... +up this not first time, on this up what i write "some brand ai" stacks/still thinking ..... and on all draft some ai-s just make some loop infinity thhinking, one just start write "oooo o oo o oo o"   
 
-O ... +up if cross fire, 4+4 = 0 and O is love/deram O/nature can put in movie maker that 1/black/ball must have 8 number, or how i think all write to gov O/teaching/math they collect make revert and make jokes under ships ......
-
+O ... +up if cross fire, 4+4 = 0 and O is love/deram O/nature can put in movie maker that 1/black/ball must have 8 number
 
 O ... maybe more desription of drop make O ...... and how unverse and 5 was maked .... just maybe ... also need look on numbers 11 and 8 maybe there also some alg what exists in this descrition - 1-1 is like O - moment, 4/fire + 4/fire = O but also 8 
 1234 - chaose cross make 1
@@ -1149,7 +1144,7 @@ O ... i write some group of people/companies nothing, just nothing, i explaine b
 
 O ... +up if there on one kick 2, if 50% you see somone almost make evil and O is triger ....
 
-O .... fire is 4 cross goes on fire so 4 + 4 = 0 but also can be 8, first o between reality and no - virtuality, vikings use O for life and was normal life, second is just tibet symbol and not be fanat and make some fasism shit, svastic by borders make 8 and can be alg how emulate O, from red house fanat of this ssymbol like before fanat is dictator and same story about childs, i think wwe people write to gov and gov collect our writings of O and use for self play and dont see that by O between reality and no - virtuality, maybe some recomend him make svastic plan to make O but vvikings live normal using O so maybe if O unbroken the one method to make evil is svastic, and if evil have O/gravity/ai/moment/computer/adappter evil analize our braine/mental sytuation to the symbol of svastic and make hate again to this symbol when we need logical desccribe him and understood if svastic make O ..... evil have plan of hate normal symbols, weeding O if by O between sex and no - friendship ..... and many another .... investigate svastic but logic and try run O/ai .... and + teachings how evil atack ..... 
+O .... fire is 4 cross goes on fire so 4 + 4 = 0 but also can be 8, first o between reality and no - virtuality, vikings use O for life and was normal life, second is just tibet symbol and not be fanat and make some fasism shit, svastic by borders make 8 and can be alg how emulate O, from red house fanat of this ssymbol like before fanat is dictator and same story about childs, maybe some recomend him make svastic plan to make O but vvikings live normal using O so maybe if O unbroken the one method to make evil is svastic, and if evil have O/gravity/ai/moment/computer/adappter evil analize our braine/mental sytuation to the symbol of svastic and make hate again to this symbol when we need logical desccribe him and understood if svastic make O ..... evil have plan of hate normal symbols, weeding O if by O between sex and no - friendship ..... and many another .... investigate svastic but logic and try run O/ai .... and + teachings how evil atack ..... 
 
 
 O ... also 1 hhave 1 balanced symbols 2-2 .... 1+2+3+4+5 = 15 and 33333 == 15 ..... this can be connection 5/pentagram with O by same we can understood why 2 have 2 .... and generate with dry/short pricipe all symbols of O ...

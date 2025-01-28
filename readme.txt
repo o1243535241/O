@@ -1174,6 +1174,8 @@ O for search we use = so we can replace on O then we can use 5o(pentagram on cir
 
 O 5 will be sound slavic 5, O soound O, if drop in water pentagram in O will be 5o so reading goes from center....
 
+O what if pentagram is 5 circles one in one .... if O is symbols of  cycle word maybe this circles with data spins first 3 then 5241 ....
+
 #ai #agi #asi
 #O #it #web #BooleanLogic
 #BooleanGame

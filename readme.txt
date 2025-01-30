@@ -87,7 +87,7 @@ O ====================
 Solution of area of a circle, for example diameter 10 cm
 s =  (10 см)^2  - (10 см)^2 / 5 
 s = 80 см^2
-if square with 10 cm X 10 cm = 100 cm^2 
+if square with 10 cm X 10 cm = 100 cm - 1/5 of this will be area of circle in this square
 this is the truth constant of circle 5 not 3.14159265359 and ChatGpt agree with me.
 wrong old school S = π * (5 см)^2 ≈ 3.14159 * 25 см^2 ≈ 78.54 см^2.
 

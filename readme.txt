@@ -1172,6 +1172,8 @@ O 5 will be sound slavic 5, O soound O, if drop in water pentagram in O will be 
 
 O what if pentagram is 5 circles one in one .... if O is symbols of  cycle word maybe this circles with data spins first 3 then 5241 .... maybe if send "data" must be "play" and result is "same data" but "play" maybe alg how we understodd words....
 
+O what if drop make O will be 12453 its pentagram walks in revert.
+
 #ai #agi #asi
 #O #it #web #BooleanLogic
 #BooleanGame

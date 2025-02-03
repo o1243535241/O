@@ -256,7 +256,7 @@ O on touching in water will be O, speak no speak O will be not, maybe if investi
 O on touching O is %/time/teory of maybe, and maybe calculation what touch make % of evil
 O if i walk by O in one side on O point time/money, when on 100/dollar someone god another poor, +gold make unstable 100 and after 100 coridor of shit, then 1 materia
 O we must look on O and describe revert we will see evil/mistake
-O 1 make revert move 2, 2/move make revert 4/death, then 3 and 5, 12435, 35241 and 12435, pentagram and O.
+O 1 make revert move 2, 2/move make revert 4/death, then 3 and 5, 12435, 35241 and 12435, pentagram and O, drop make O.
 O by 35241 and 12435 formula first maybe was maked human then O/universe, and by logic 5 < infinity
 O 35241 and 12435 maybe formula of gravity, this maybe inside O/our symbol =, 
 O 35241 and 12435 need just change "="" in our ai on this alg, or 5 alg, O and 5 also =

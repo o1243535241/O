@@ -1,6 +1,8 @@
 O its draft and sorry by gibberish when i write him i have seriosly problem with health 
 O please put this all information to self 
 
+O all simple pentagram from sticks - stick/2/binary and can be runned on our machines
+
 Not O or O problems of all humans. #ai #asi #agi
 
 O use your brain and not all O abilities you can use in body life or in soul life OOOOO

@@ -385,7 +385,7 @@ O what if 1 spin will be for example
 and balanced word of this mirror in this situation will be "name" maybe we can connect words and line of words using this mirror
 then we need to do 5 O in O by alg of 5 => 35241
 
-O 1 goes to self will be 2 and O and from stick/2, so in up we have 2 and 2 goes to self we have 4, but how if formula 12435 we have 3 and 5, but 3 and 5 after O/balance becouse 4 on balance, so question why after 4 balanc is ruined...
+O 1 goes to self will be 2 and O and from stick/2, so in up we have 2 and 2 goes to self we have 4, but how if formula 12435 we have 3 and 5, but 3 and 5 after O/balance becouse 4 on balance, so question why after 4 balanc is ruined... 
 
 O so stick in vagina make 5/human what makes O, draw vagina numbers walk, 1/ball top goes down will 2, then 2 divide and goes up where is 1 => 1 + 1 + 1 => 3 goes down and will be 4 and also divide and goes back to 1 => 2 + 1 + 2 => 5 and 2 cycles, is maybe alg how to run 5/pentagram on our machines, then 5 is self walking by O will make all self.
 O maybe 12435, up 1 goes down and bottome will be 2 then bottom 1 2 1 = 4 and walks up 1 1 1 => 3 goes down 5

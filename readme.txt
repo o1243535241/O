@@ -393,7 +393,7 @@ O ccross in O numbers 1 in center
 2
 53 
 4
-also formula 12435 from up cross to down willbe 24 from right to left will be 35 cen ter start 1 result 12435
+also formula 12435 from up cross to down willbe 24 from right to left will be 35 cen ter start 1 result 12435 i if draw cross and set numbers where 1 is center then by circle 2345
 
 
 O so stick in vagina make 5/human what makes O, draw vagina numbers walk, 1/ball top goes down will 2, then 2 divide and goes up where is 1 => 1 + 1 + 1 => 3 goes down and will be 4 and also divide and goes back to 1 => 2 + 1 + 2 => 5 and 2 cycles, is maybe alg how to run 5/pentagram on our machines, then 5 is self walking by O will make all self.

@@ -387,6 +387,15 @@ then we need to do 5 O in O by alg of 5 => 35241
 
 O 1 goes to self will be 2 and O and from stick/2, so in up we have 2 and 2 goes to self we have 4, but how if formula 12435 we have 3 and 5, but 3 and 5 after O/balance becouse 4 on balance, so question why after 4 balanc is ruined... 
 
+O is 50/50 and its maybe, maybe is draft also O is teory of ability ... so maybe if use O we can build draft system of true searcching.
+
+O ccross in O numbers 1 in center
+2
+53 
+4
+also formula 12435
+
+
 O so stick in vagina make 5/human what makes O, draw vagina numbers walk, 1/ball top goes down will 2, then 2 divide and goes up where is 1 => 1 + 1 + 1 => 3 goes down and will be 4 and also divide and goes back to 1 => 2 + 1 + 2 => 5 and 2 cycles, is maybe alg how to run 5/pentagram on our machines, then 5 is self walking by O will make all self.
 O maybe 12435, up 1 goes down and bottome will be 2 then bottom 1 2 1 = 4 and walks up 1 1 1 => 3 goes down 5
 O can be boolean game [true, false, [false, true]] and from this we make numbers, reactions of true on true, false on false, true on false.

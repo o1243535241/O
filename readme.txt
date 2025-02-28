@@ -399,6 +399,8 @@ O also love brootforce.
 
 O to understood 5 pentagram we need understood 4321 to understood 2 we neeed understood 1 ....
 O what if cross make from 1 number 4 and from 4 number we can make 1
+O what if to run mind/pentagram we musst find glitch in math...mind is organized random...what maybe based on femida/balance/weight of left and right 
+O is based on 01 what if between binary data we can find some paterns/architecture
 
 
 O so stick in vagina make 5/human what makes O, draw vagina numbers walk, 1/ball top goes down will 2, then 2 divide and goes up where is 1 => 1 + 1 + 1 => 3 goes down and will be 4 and also divide and goes back to 1 => 2 + 1 + 2 => 5 and 2 cycles, is maybe alg how to run 5/pentagram on our machines, then 5 is self walking by O will make all self.

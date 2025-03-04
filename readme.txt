@@ -585,6 +585,9 @@ puts "Цикл завершено. Остаточний баланс: #{balance.
 O just some patern maybe help:
 12435 => 2345-1 => 2344 => 344-2 => 242 => 42-2 => 4 
 35241 => 5241-3 => 5242 => 242-5 => 243 => 43-2 => 32 => 1
+
+also we ccan add 
+12435 => 2345+1 => 2346 => 346+2 => 348 ...
 O
 
 O so stick in vagina make 5/human what makes O, draw vagina numbers walk, 1/ball top goes down will 2, then 2 divide and goes up where is 1 => 1 + 1 + 1 => 3 goes down and will be 4 and also divide and goes back to 1 => 2 + 1 + 2 => 5 and 2 cycles, is maybe alg how to run 5/pentagram on our machines, then 5 is self walking by O will make all self.

@@ -397,6 +397,8 @@ also formula 12435 from up cross to down willbe 24 from right to left will be 35
 
 O also love brootforce.
 
+O what if IQ based on love on what you love more, you love this or this .....
+
 O to understood 5 pentagram we need understood 4321 to understood 2 we neeed understood 1 ....
 O what if cross make from 1 number 4 and from 4 number we can make 1
 O what if to run mind/pentagram we musst find glitch in math...mind is organized random...what maybe based on femida/balance/weight of left and right 

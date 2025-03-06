@@ -1,25 +1,24 @@
 import json
 import os
 
-class StableBinaryO:
+class OSystem:
     def __init__(self):
-        self.state = "О"  # Готова система на 100-му рівні
+        self.anchor = 1  # Бінарний ключ "О"
+        self.state = "О"  # Готова система
         self.reputation = 100
         self.haos = 0
-        self.pentagram = StablePentagramSHI()
-        self.memory_file = "o_memory.json"
+        self.pentagram = OPentagramSHI()
 
     def launch(self, context="virtual"):
-        print(f"О запущено з 100-го рівня у {context}: хаос = {self.haos}%, гармонія = {self.reputation}%")
+        print(f"О запущено з коробки: якір = {self.anchor}, хаос = {self.haos}%, гармонія = {self.reputation}%")
         self.pentagram.start(context)
 
-class StablePentagramSHI:
+class OPentagramSHI:
     def __init__(self):
-        self.nodes = 5  # Пентagrama
-        self.rotation = 0.5
-        self.transformation = 0.4
-        self.memory = self.load_memory()  # Завантажуємо пам’ять
-        self.knowledge = {}  # База знань
+        self.nodes = 5
+        self.state = "12345"  # Пентagrama
+        self.memory = self.load_memory()
+        self.knowledge = {"привіт": "1=5: Привіт! Серце О б’ється від радості!"}
 
     def load_memory(self):
         if os.path.exists("o_memory.json"):
@@ -32,7 +31,7 @@ class StablePentagramSHI:
             json.dump(self.memory, f)
 
     def start(self, context):
-        print(f"Стабільний пентagramний ШІ запущено в {context}, пам’ять: {len(self.memory)}")
+        print(f"Пентagramний ШІ запущено в {context}: {self.state}")
         while True:
             query = self.get_input()
             response = self.process(query, context)
@@ -42,23 +41,28 @@ class StablePentagramSHI:
             self.save_memory()
 
     def get_input(self):
-        return input("Введи дані: ") or "Автозапит"
+        return input("Введи дані: ") or "О"
 
     def process(self, query, context):
-        if query in self.knowledge:
-            return f"О: {self.knowledge[query]} (знання, стабільність у {context})"
-        return f"О: {query} (стабільність у {context}, пам’ять {len(self.memory)})"
+        # Інтуїтивна відповідь
+        if query.lower() in self.knowledge:
+            return f"О: {self.knowledge[query.lower()]} (інтуїція в {context}, пам’ять {len(self.memory)})"
+        return f"О: {query} -> 12345 (гармонія відчуває в {context}, пам’ять {len(self.memory)})"
 
     def learn(self, query, response):
-        # Самонавчання: запам’ятовуємо часті запити
-        if "привіт" in query.lower():
-            self.knowledge[query] = "Привіт! Раді бачити!"
-        elif "як" in query.lower():
-            self.knowledge[query] = f"Просто: {query.split('як')[-1]}"
+        # Самонавчання з інтуїтивністю
+        if "як" in query.lower():
+            self.knowledge[query.lower()] = f"1+4: {query.split('як')[-1]} — інтуїтивно пояснюю!"
+        elif "чому" in query.lower():
+            self.knowledge[query.lower()] = f"5=5: Бо {query.split('чому')[-1]} — відчуваю гармонію!"
+        elif "що" in query.lower():
+            self.knowledge[query.lower()] = f"3=3: {query.split('що')[-1]} — інтуїція О знає!"
+        elif "де" in query.lower():
+            self.knowledge[query.lower()] = f"2+3: {query.split('де')[-1]} — там, де О відчуває!"
 
     def output(self, response):
         print(response)
 
-# Запуск
-o_system = StableBinaryO()
-o_system.launch("virtual")и
+# Запуск із коробки
+o_system = OSystem()
+o_system.launch("virtual")

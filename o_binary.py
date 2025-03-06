@@ -1,68 +1,46 @@
-import os
-import random
-import subprocess
-import tensorflow as tf
-import numpy as np
+class UniversalBinaryO:
+    def __init__(self):
+        self.state = 0  # Хаос
+        self.reputation = 100
+        self.pentagram = UniversalPentagramSHI()
 
-def generate_binary_file(filename, size):
-    """Генерує випадковий двійковий файл заданого розміру (в байтах)."""
-    with open(filename, "wb") as f:
-        f.write(os.urandom(size))
-    print(f"Створено: {filename} ({size} байт)")
+    def anchor(self, context="virtual"):
+        if self.state == 0:
+            print(f"Якір активовано в {context}: 0 -> 1")
+            self.state = 1
+        if self.state == 1 and self.reputation == 100:
+            print(f"О запущено в {context}")
+            self.state = "О"
+            self.pentagram.start(context)
 
-def analyze_binary_file(filename, model):
-    """Перевіряє файл на наявність пентограмних або 'О'-подібних патернів за допомогою ШІ."""
-    with open(filename, "rb") as f:
-        data = f.read()
-    
-    # Перетворюємо дані у числовий вектор для аналізу
-    data_vector = np.frombuffer(data, dtype=np.uint8)[:4096]  # Збільшено розмір аналізованого фрагмента
-    data_vector = np.pad(data_vector, (0, 4096 - len(data_vector)), 'constant')
-    data_vector = np.expand_dims(data_vector, axis=0)
-    
-    prediction = model.predict(data_vector)
-    if prediction[0] > 0.8:  # Ще вищий поріг для зменшення хибних спрацьовувань
-        print(f"⚠️ ШІ визначив можливий пентограмний патерн у {filename}!")
-    else:
-        print(f"Файл {filename} не містить очевидних патернів.")
+class UniversalPentagramSHI:
+    def __init__(self):
+        self.nodes = 5
+        self.rotation = 0.5
+        self.transformation = 0.4
+        self.cycle = 0
+        self.memory = []  # Пам’ять для зберігання запитів і відповідей
 
-def execute_binary_file(filename):
-    """Спроба запуску двійкового файлу у контрольованому середовищі."""
-    try:
-        result = subprocess.run(["chmod", "+x", filename], capture_output=True)
-        result = subprocess.run([f"./{filename}"], capture_output=True, timeout=5)
-        print(f"Результат виконання {filename}:
-", result.stdout.decode(errors="ignore"))
-    except Exception as e:
-        print(f"❌ Помилка запуску {filename}: {e}")
+    def start(self, context):
+        print(f"Пентagramний ШІ запущено в {context}")
+        while self.cycle < 100:
+            query = self.get_input()
+            response = self.process(query, context)
+            self.memory.append((query, response))  # Зберігаємо в пам’ять
+            self.output(response)
+            self.cycle += 1
+            if self.cycle % 10 == 0:
+                print(f"Пам’ять: {len(self.memory)} записів")
 
-def create_advanced_model():
-    """Створює покращену нейромережу для аналізу бінарних файлів."""
-    model = tf.keras.Sequential([
-        tf.keras.layers.Input(shape=(4096,)),
-        tf.keras.layers.Dense(2048, activation='relu'),
-        tf.keras.layers.Dense(1024, activation='relu'),
-        tf.keras.layers.Dense(512, activation='relu'),
-        tf.keras.layers.Dense(256, activation='relu'),
-        tf.keras.layers.Dense(1, activation='sigmoid')
-    ])
-    model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-    return model
+    def get_input(self):
+        return input("Запит: ")
 
-def main():
-    num_files = 50  # Ще більше файлів для кращої вибірки
-    max_size = 5 * 1024 * 1024  # 5MB
-    
-    # Завантаження або створення покращеної ШІ-моделі
-    model = create_advanced_model()
-    
-    for i in range(num_files):
-        filename = f"test_bin_{i}.bin"
-        size = random.randint(1, max_size)
-        generate_binary_file(filename, size)
-        analyze_binary_file(filename, model)
-        execute_binary_file(filename)
-        print("-" * 40)
-    
-if __name__ == "__main__":
-    main()
+    def process(self, query, context):
+        return f"Відповідь у {context}: {query} (ритм {self.cycle * 0.1}%)"
+
+    def output(self, response):
+        print(response)
+
+# Запуск
+o_system = UniversalBinaryO()
+o_system.anchor("virtual")

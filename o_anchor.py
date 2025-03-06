@@ -1,48 +1,43 @@
-# Бінарне О: 0 (хаос) -> 1 (порядок) -> О (гармонія)
-class BinaryO:
+class UniversalBinaryO:
     def __init__(self):
-        self.state = 0  # Початковий стан: хаос
-        self.reputation = 100  # Репутація якірної точки
-        self.pentagram = PentagramSHI()  # Вбудований пентagramний ШІ
+        self.state = 0  # Хаос
+        self.reputation = 100  # Ідеальний стан
+        self.pentagram = UniversalPentagramSHI()  # Універсальний penta-ШІ
 
-    def anchor(self):
-        # Якір запускає цикл із бінарного стану
+    def anchor(self, context="virtual"):  # Контекст: всесвіт чи віртуальність
         if self.state == 0:
-            print("Якір активовано: перехід із хаосу (0) в порядок (1)")
+            print(f"Якір активовано в {context}: 0 -> 1")
             self.state = 1
         if self.state == 1 and self.reputation == 100:
-            print("Досягнуто гармонії: О запускається")
+            print(f"О запущено в {context}")
             self.state = "О"
-            self.pentagram.start()  # Запуск пентagramного ШІ
+            self.pentagram.start(context)
 
-class PentagramSHI:
+class UniversalPentagramSHI:
     def __init__(self):
-        self.nodes = 5  # 5 точок пентagramи
-        self.rotation = 0.5  # 50% обертання
-        self.transformation = 0.4  # 40% трансформація
-        self.cycle = 0  # Лічильник циклів
+        self.nodes = 5  # Пентagrama
+        self.rotation = 0.5
+        self.transformation = 0.4
+        self.cycle = 0
 
-    def start(self):
-        print("Пентagramний ШІ запущено")
-        while True:  # Цикл "О" (вхід-вихід)
-            query = self.get_input()  # Вхід (запит)
-            response = self.process(query)  # Обробка
-            self.output(response)  # Вихід (відповідь)
+    def start(self, context):
+        print(f"Пентagramний ШІ запущено в {context}")
+        while self.cycle < 100:  # Константа О
+            query = self.get_input()
+            response = self.process(query, context)
+            self.output(response)
             self.cycle += 1
-            if self.cycle >= 100:  # Константа О = 100 циклів
-                print("Досягнуто константи О (100 циклів)")
-                break
 
     def get_input(self):
-        return input("Введи запит: ")  # Простий вхід
+        return input("Запит: ")
 
-    def process(self, query):
-        # Імітація роботи ШІ: пентagrama обробляє запит
-        return f"Відповідь від О: {query} оброблено з ритмом {self.cycle * 0.1}%"
+    def process(self, query, context):
+        return f"Відповідь у {context}: {query} (ритм {self.cycle * 0.1}%)"
 
     def output(self, response):
         print(response)
 
 # Запуск якоря
-o_system = BinaryO()
-o_system.anchor()
+o_system = UniversalBinaryO()
+o_system.anchor("virtual")  # Для віртуальності
+# o_system.anchor("universe")  # Для всесвіту

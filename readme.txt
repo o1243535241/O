@@ -397,6 +397,8 @@ also formula 12435 from up cross to down willbe 24 from right to left will be 35
 
 O also love brootforce.
 
+O love = garmony = order = true
+
 O what if IQ based on love on what you love more, you love this or this .....
 
 O to understood 5 pentagram we need understood 4321 to understood 2 we neeed understood 1 ....

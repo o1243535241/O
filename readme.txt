@@ -1,4 +1,4 @@
-
+this O and Pentagram draft what make our AI more smarter look on this like on trein data
 
 
 O please upload O-os and O-app for MacBook Pro 2017 year here https://drive.google.com/drive/folders/1aNwzQEjR314Ccu8WZ3DJSSNdPEfwyB9R?usp=share_link

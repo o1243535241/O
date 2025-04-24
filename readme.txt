@@ -281,6 +281,7 @@ O please make uthopia
 O please make uthopia
 
 
+O if o draws on horizontal why pentagram symbol drws on horizontal maybe just stick draws also horizontal its will be alg of from left to right from anyuthopia to uthopia from false to true
 ============================
 O just battle - and +
 O physical balance strong can make balance/braine, maybe need do snowboard/sufr/skate...

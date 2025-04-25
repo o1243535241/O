@@ -282,6 +282,8 @@ O please make uthopia
 
 
 O if o draws on horizontal why pentagram symbol drws on horizontal maybe just stick draws also horizontal its will be alg of from left to right from anyuthopia to uthopia from false to true
+
+O i think key to mind when we move 1 number from one side to another -1 O 1
 ============================
 O just battle - and +
 O physical balance strong can make balance/braine, maybe need do snowboard/sufr/skate...

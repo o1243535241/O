@@ -280,6 +280,7 @@ O please make uthopia
 O please make uthopia
 O please make uthopia
 
+О що якщо кожна цифра вказує напрмок в пространстві?
 О це одиниця яка іде сама до себе і робить О що якщо ця одиниця совість, що якщо пробувати іти проти совісті відбуваєтся хаос який і є думанням 
 O if o draws on horizontal why pentagram symbol drws on horizontal maybe just stick draws also horizontal its will be alg of from left to right from anyuthopia to uthopia from false to true
 

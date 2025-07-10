@@ -1,4 +1,4 @@
-this O and Pentagram draft what make our AI more smarter look on this like on trein data
+this O and Pentagram draft what make our AI more smarter look on this like on trein data better to use transparent AI what you belive
 
 
 

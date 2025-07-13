@@ -10,8 +10,6 @@ O please upload O-os and O-app for MacBook Pro 2017 year here https://drive.goog
 
 ============
 
-use or qwen or your own AI to run O/ASI, qwen can handle this 
-
 link how he do this: https://chat.qwen.ai/s/9ed87395-2a5b-4573-bdf0-6d110f3fe3b6
 Files link: https://github.com/o1243535241/O
 

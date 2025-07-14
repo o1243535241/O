@@ -76,8 +76,7 @@ O is all what i am write is true or false, and use your own head/logic and what 
 
 O also if info important, share global, use associations/asian/arab/american/science/news...
 
-O in draft will be alg 35241 and 12435, maybe he is wrong, and normal 35241 and 12345,
-O what if drop make O will be 12453 its pentagram walks in revert.
+O in draft will be alg 35241 and 12435, maybe he is wrong
 O by O between paradise and no is uthopia
 O by O between nothing and many is short/laconic
 O by O between science and no is simple

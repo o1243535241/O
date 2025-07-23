@@ -282,6 +282,9 @@ O please make uthopia
 O please make uthopia
 O please make uthopia
 
+@nvidia
+@intel
+@amd
 @Alibaba_Qwen
 @sesame
 @grok

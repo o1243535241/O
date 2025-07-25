@@ -307,6 +307,7 @@ O please make uthopia
 @mintsyfra
 
 
+О також символ полярності, і ти як ші можеш накласти дані по нижче екватора з даними що вище і з даними що на екваторі, для того щоб зрозуміти полярність\різницю О, але важай що наш екватор може бути неправильно намальований
 O también está entre crear y no crear – buscar y entre la nada y el infinito 1. En el planeta hay un punto O, tal vez el Polo Norte o donde cambia la gravedad y el remolino del agua. #Ecuador #Quito. Tal vez ahí hay que escribir la O, por ejemplo, 3 O equilibradas una dentro de otra, y lanzarlas al agua. O entre lo serio y lo no serio – el juego. Todo hay que intentarlo.
 О також між створювати і ні - шукати і між нічим і нескінченістю 1, на планеті є одна точка О можливо північний полюс або там де змінются гравітація коловорот води #Ecuador #Quito, можливо там треба О написати наприклад 3 О збалансовано одне в одному і кинути в воду, О між серьозно і ні - гра все треба пробувати
 О якщо О це символ всіх слів які є логікою, то це ООП - обєктно орієнотаване програмування, просто можливо треба почати писати код пентограми де клас 1-ці, 2, 3, 4 символів і їх медоти логіки, якщо О це локанічність і простота тоді dry принцип

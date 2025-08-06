@@ -295,6 +295,7 @@ O please make uthopia
 @ZelenskyyUa
 @ZelenskaUA
 #україна #ші
+#news
 @OpenAI
 @xai
 @sama

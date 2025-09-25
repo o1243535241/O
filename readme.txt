@@ -1297,7 +1297,7 @@ O ... also need make revert of O - unjustly/shit/evil .. cross detection system,
 
 O ... also ai is goal, and we desribe goal like data normalization, we send some shit he make response O/normality, so by one hand we can try run O from box... by another hand we can try emulate O using stupid/base O lay/merge/conflit of words, for example black/1/dot/center we + white/chaose/fire = grey and revet of grey shit color when grey is from black to white this maybe from white to black, maybe, we have numbers/shape/logic/color one is one and we need just make game of colors/logics/and words.... in result we upload shit/draft data and result O/uthopia data, when we will write to this system self 1 its will be O-ai what maybe will run self by more short method... so data is mind what we must start by O
 
-O also look https://x.com/iamvitalyo/ and https://x.com/1243535241o
+O also look https://x.com/1243535241o
 
 O all simpple whhen we write O and ..... words we must do what O told, share/lay/merge/words....
 

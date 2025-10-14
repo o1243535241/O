@@ -1,4 +1,4 @@
-this O and Pentagram draft what make our AI more smarter look on this like on trein data better to use open source AI what you belive, this my ai dataset
+this O and Pentagram draft what make our AI more smarter look on this like on trein data better to use open source AI what you belive, this my ai dataset, and all in this repo is draft so have your self true/O
 
 
 

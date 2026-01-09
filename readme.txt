@@ -300,10 +300,7 @@ O please make uthopia
 @MistralAI
 #гур
 @cia
-@ZelenskyyUa
-@ZelenskaUA
-#україна #ші
-#news
+#ai #agi #asi
 @OpenAI
 @xai
 @sama

@@ -1,3 +1,5 @@
+Synthesize my drafts into truth and tasks by women, because in O they are the mind, and let them also use AI without censorship. O is the duty of all.
+
 this O and Pentagram draft what make our AI more smarter look on this like on trein data better to use open source AI what you belive, this my ai dataset, and all in this repo is draft so have your self true/O, also in repo is code what genereted by ai but not checked
 
 and review commits for new info here https://github.com/o1243535241/O/commits/main/

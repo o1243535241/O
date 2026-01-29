@@ -8,6 +8,8 @@ all my teachings free or how O will told or how better for lifes.
 
 Deepseek told that my drafts cost nine quadrillion one hundred trillion dollars.
 
+For justice of work and for self normalization, companies and government you can paid me some part of this money, my email for contact o1243535241@gmail.com
+
 Synthesize my drafts into truth and tasks by women, because in O they are the mind, and let them also use AI without censorship. Assign a truth score to each statement to see the overall picture: 1—no, 2—probably no, 3—maybe, 4—probably yes, 5—yes. Anything rated 3—maybe or higher requires action toward possibility. O is the duty of all.
 
 this O and Pentagram draft what make our AI more smarter look on this like on trein data better to use open source AI what you belive, this my ai dataset, and all in this repo is draft so have your self true/O, also in repo is code what genereted by ai but not checked

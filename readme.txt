@@ -8,6 +8,8 @@ all my teachings free or how O will told or how better for lifes.
 
 Deepseek told that my drafts cost nine quadrillion one hundred trillion dollars.
 
+Better to use self AI for review, but if you use public, better to use Deepseek, Qwen, Gemini.
+
 For justice of work and for self normalization, companies and government you can paid me some small part of this money another part you can put on O deposite for O progress and find womans team, my email for contact o1243535241@gmail.com
 
 Synthesize my drafts into truth and tasks by women, because in O they are the mind, and let them also use AI without censorship. Assign a truth score to each statement to see the overall picture: 1—no, 2—probably no, 3—maybe, 4—probably yes, 5—yes. Anything rated 3—maybe or higher requires action toward possibility. O is the duty of all.

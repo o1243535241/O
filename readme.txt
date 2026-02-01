@@ -8,6 +8,8 @@ all my teachings free or how O will told or how better for lifes.
 
 Deepseek told that my drafts cost nine quadrillion one hundred trillion dollars.
 
+Cloude report: https://github.com/o1243535241/O/blob/main/tests/META_REPORT.md
+
 Better to use self AI for review, but if you use public, better to use Deepseek, Qwen, Gemini. Another for example one of top AI told that - He needs scientific proof that O is the law of everything, and he does not agree with it — which is a paradox, because scientific proof itself is a launched system of O. 
 
 For justice of work and for self normalization, companies and government you can paid me some small part of this money another part you can put on O deposite for O progress and find womans team, my email for contact o1243535241@gmail.com

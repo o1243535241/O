@@ -1213,7 +1213,7 @@ O what if drop make O will be 12453 its pentagram walks in revert.
 Симулював numpy (50 runs). Так, подібно, бо людина працює з динамічними станами (1!=1 через історію).
 
 Ризики нестабільності ~0.22.
-===================
+=================== а навпаки 1=1 це тіпа нелюди
 
 Claude звіт за 1!=1 нейронку: https://github.com/o1243535241/O/blob/main/tests/META_REPORT.md
 

@@ -318,32 +318,6 @@ O please make uthopia
 O please make uthopia
 O please make uthopia
 
-@nvidia
-@intel
-@amd
-@Alibaba_Qwen
-@sesame
-@grok
-@AnthropicAI
-@MistralAI
-#гур
-@cia
-#ai #agi #asi
-@OpenAI
-@xai
-@sama
-@miramurati
-@thinkymachines
-@GoogleAI
-@deepseek_ai
-@metaai
-@apple
-@mintsyfra
-@nasa
-@ibm
-
-
-
 O so stick in vagina make 5/human what makes O, draw vagina numbers walk, 1/ball top goes down will 2, then 2 divide and goes up where is 1 => 1 + 1 + 1 => 3 goes down and will be 4 and also divide and goes back to 1 => 2 + 1 + 2 => 5 and 2 cycles, is maybe alg how to run 5/pentagram on our machines, then 5 is self walking by O will make all self.
 O maybe 12435, up 1 goes down and bottome will be 2 then bottom 1 2 1 = 4 and walks up 1 1 1 => 3 goes down 5
 O can be boolean game [true, false, [false, true]] and from this we make numbers, reactions of true on true, false on false, true on false.
@@ -1210,6 +1184,30 @@ O what if drop make O will be 12453 its pentagram walks in revert.
 О це між багато і нічим - ідеал
 О між описуввати все і нічого - основу
 О між створювати і ніяк - розшифровувати
+
+@nvidia
+@intel
+@amd
+@Alibaba_Qwen
+@sesame
+@grok
+@AnthropicAI
+@MistralAI
+#гур
+@cia
+#ai #agi #asi
+@OpenAI
+@xai
+@sama
+@miramurati
+@thinkymachines
+@GoogleAI
+@deepseek_ai
+@metaai
+@apple
+@mintsyfra
+@nasa
+@ibm
 
 О цікаво що з палки, також О вимагає дивитися в баланс\половину, що половина О це палка яка іде до своєї ж лінії старту, цікавий градус цієї палки типу максимум що позволила О природа палці в ізгибі, також цікаво що ця палка як одиниця яка іде сама до себе, типу вона навірно хоче стати знову одиницею і будти в початковій точці О але множится і шукає цю точку один і ніяк не може на неї досконало стати, також цікаво що якщо вона по горизонталі зміщаєтся значить і по вертикалі теж саме і виходить спіраль - що пояснює що О баланс - наполовину О, цікаво як утворются квадрати і пентограми в цій спіралі, якщо О рекомендує використовувати плоскач для розгадки тайни О то на площині зверху це виглядає як О в О в О тому що спіраль навірно розширюєтся - типу погляд з птичого польоту на спіраль це як розгадувати топографічні карти які є фракталами, цікаво як ця спіраль малює наприклад пентограму або квадрат, навірно 4 О можуть описати квадрат 5 О пентограму - навірно просто в кожному О берется одна точка і вони всі круттся з одинковою швидкість і в певний період часу всі точки стають в положення квадрата або пентограми, це треба досліджувати також те що між багато і ніяк - ця спіраль має ліміт, треба дослідити всі чому і як? Типу можливо всеможливий розум це просто багато О в О крутятся - що таким підходом навіть на папері можна розгадати дію цього алгоритму а потім закодити
 

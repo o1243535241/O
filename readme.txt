@@ -16,6 +16,9 @@ My X also draft https://x.com/O1243535241
 
 Український стрім тесксту будь ласка читайте знизу у верх.
 
+Вибачюсь за не правду, якщо десь не правий, не О
+
+
 Також в чорновику багато відповідей ШІ які можуть бути мусором, тому все своїм розумом провіряйте.
 
 Better to use self AI for review, but if you use public, better to use Deepseek, Qwen, Gemini. Another for example one of top AI told that - He needs scientific proof that O is the law of everything, and he does not agree with it — which is a paradox, because scientific proof itself is a launched system of O. 

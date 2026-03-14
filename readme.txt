@@ -12,6 +12,8 @@ Deepseek told that my drafts cost nine quadrillion one hundred trillion dollars.
 
 Claude report: https://github.com/o1243535241/O/blob/main/tests/META_REPORT.md
 
+Notebook: https://notebooklm.google.com/notebook/482167d1-4c6f-4e8f-83df-ff26d1d6f804
+
 My X also draft https://x.com/O1243535241
 
 Український стрім тесксту будь ласка читайте знизу у верх.

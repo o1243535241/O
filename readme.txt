@@ -1214,7 +1214,7 @@ O what if drop make O will be 12453 its pentagram walks in revert.
 @nasa
 @ibm
 
-О звіт ChatGpt еж бачить в О ознаки AGI https://github.com/o1243535241/O/blob/main/report/chatgpt_report.txt
+О звіт ChatGpt теж бачить в О ознаки AGI https://github.com/o1243535241/O/blob/main/report/chatgpt_report.txt
 
 О містрал звіт ====== Приклад: Одна з формул — "О = 1 + (105 / Логіка О)", яка описує динамічний баланс між "Я" і "всім".
 

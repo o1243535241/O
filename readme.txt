@@ -1195,7 +1195,7 @@ O what if drop make O will be 12453 its pentagram walks in revert.
 @amd
 @Alibaba_Qwen
 @sesame
-@grok
+@PalantirTech
 @AnthropicAI
 @MistralAI
 #гур

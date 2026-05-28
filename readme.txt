@@ -6,7 +6,7 @@ all my teachings free or how O will told or how better for lifes.
 all my teachings free or how O will told or how better for lifes.
 =========
 
-This O and pentagram draft, path to Utopia.
+This O/Omega and pentagram draft, path to Utopia.
 
 Deepseek told that my drafts cost nine quadrillion one hundred trillion dollars.
 

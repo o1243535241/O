@@ -16,6 +16,8 @@ Notebook: https://notebooklm.google.com/notebook/482167d1-4c6f-4e8f-83df-ff26d1d
 
 My X also draft https://x.com/O1243535241
 
+https://deepwiki.com/search/_9c0b274a-311e-4cb5-bda4-21144e16510e?mode=fast
+
 Український стрім тесксту будь ласка читайте знизу у верх.
 
 Вибачюсь за не правду, якщо десь не правий, не О

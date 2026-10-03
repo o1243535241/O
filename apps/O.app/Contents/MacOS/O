@@ -1,0 +1,59 @@
+#!/bin/bash
+# О :: самостійний лаунчер (без Claude/GPT/інтернету)
+# Працює локально: python3 + numpy. Якщо numpy немає — система все одно запуститься,
+# але нейромережа буде вимкнена (і скаже про це чесно).
+
+set -u
+
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ROOT="$(cd "$HERE/../../../.." && pwd)"
+CLI="$ROOT/o_closed/cli.py"
+LOG="$ROOT/o_closed/state/launcher.log"
+mkdir -p "$ROOT/o_closed/state"
+
+find_py() {
+  for c in \
+    /Library/Frameworks/Python.framework/Versions/*/bin/python3 \
+    /opt/homebrew/bin/python3 \
+    /usr/local/bin/python3 \
+    /usr/bin/python3 ; do
+    if [ -x "$c" ] && "$c" -c 'import numpy, sys; sys.exit(0)' 2>/dev/null; then
+      echo "$c"; return 0
+    fi
+  done
+  command -v python3 2>/dev/null || echo ""
+}
+
+PY="$(find_py)"
+if [ -z "$PY" ] || [ ! -f "$CLI" ]; then
+  osascript -e 'display alert "О: не знайдено python3 або cli.py" as critical' >/dev/null 2>&1
+  echo "ПОМИЛКА: python3=$PY cli=$CLI" >>"$LOG"
+  exit 1
+fi
+
+{
+  echo "=== $(date '+%F %T') запуск О ==="
+  echo "python: $PY"
+  echo "root:   $ROOT"
+} >>"$LOG"
+
+# Режими для автоматизації (без вікна)
+if [ "${1:-}" = "--headless" ]; then
+  shift
+  exec "$PY" "$CLI" "$@"
+fi
+
+# Інтерактивний режим: відкриваємо Terminal з консоллю О
+CMD="cd '$ROOT' && '$PY' '$CLI'"
+osascript <<APPLESCRIPT >/dev/null 2>&1
+tell application "Terminal"
+    activate
+    do script "$CMD"
+end tell
+APPLESCRIPT
+
+if [ $? -ne 0 ]; then
+  # резерв: запуск просто в поточному терміналі
+  exec "$PY" "$CLI"
+fi
+exit 0

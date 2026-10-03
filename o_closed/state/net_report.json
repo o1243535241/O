@@ -1,0 +1,17 @@
+{
+  "vocab": 96,
+  "params": 110816,
+  "train_chars": 360000,
+  "val_chars": 40000,
+  "steps": 1500,
+  "loss_start": 2.646820681763047,
+  "loss_end": 2.126650904651449,
+  "val_loss_start": 2.775814581596959,
+  "val_loss_end": 2.7214978223279918,
+  "perplexity_start": 16.05169708865272,
+  "perplexity_end": 15.203076707375354,
+  "seconds": 1.608370065689087,
+  "steps_per_sec": 932.6211871254536,
+  "learned": true,
+  "note": "val_loss знизився -> навчання реальне"
+}

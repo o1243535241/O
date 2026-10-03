@@ -1,0 +1,35 @@
+{
+  "mode": "random",
+  "length": 6,
+  "alphabet_size": 26,
+  "space_size": 308915776,
+  "space_size_human": "3.089e+08",
+  "evaluated": 20000,
+  "coverage_pct": 0.006474257,
+  "coverage_honest": "перевірено 20000 із 3.089e+08 = 6.474e-03% — повний перебір неможливий",
+  "seconds": 0.218,
+  "evals_per_sec": 91633.0,
+  "top": [
+    {
+      "text": "fpzuep",
+      "score": 1.0
+    },
+    {
+      "text": "eqkoxz",
+      "score": 1.0
+    },
+    {
+      "text": "pwlnim",
+      "score": 1.0
+    },
+    {
+      "text": "xxpvpm",
+      "score": 1.0
+    },
+    {
+      "text": "stxzho",
+      "score": 1.0
+    }
+  ],
+  "note": "Перебір НЕ є пошуком 'ідеального коду О'. Це генератор випадкових рядків зі скорингом. Цінність = тільки якщо score підтвердиться людиною."
+}

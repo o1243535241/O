@@ -1,0 +1,45 @@
+{
+  "when": "2026-10-03 16:57:39",
+  "passed": 6,
+  "total": 6,
+  "pct": 100.0,
+  "results": [
+    {
+      "claim": "нейромережа навчена і ваги збережено",
+      "evidence": "o_closed/state/o_net.npz",
+      "pass": true,
+      "extra": ""
+    },
+    {
+      "claim": "звіт навчання існує",
+      "evidence": "o_closed/state/net_report.json",
+      "pass": true,
+      "extra": "learned=True"
+    },
+    {
+      "claim": "бенчмарки виміряні",
+      "evidence": "o_closed/state/benchmarks.json",
+      "pass": true,
+      "extra": "learned="
+    },
+    {
+      "claim": "діагностика виродження виконана",
+      "evidence": "o_closed/state/diagnostics.json",
+      "pass": true,
+      "extra": "learned=True"
+    },
+    {
+      "claim": "брутфорс-звіт існує",
+      "evidence": "o_closed/state/brute_report.json",
+      "pass": true,
+      "extra": "learned="
+    },
+    {
+      "claim": "лаунчер .app існує",
+      "evidence": "apps/O.app/Contents/MacOS/O",
+      "pass": true,
+      "extra": ""
+    }
+  ],
+  "net_learned": true
+}

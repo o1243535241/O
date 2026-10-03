@@ -1,0 +1,84 @@
+{
+  "when": "2026-10-03 16:57:03",
+  "version": "3.0-honest",
+  "host": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "python": "3.13.3",
+  "symbolic_fixed_code": {
+    "cycles": 20000,
+    "mode": "fixed-code",
+    "seconds": 0.2795,
+    "cycles_per_sec": 71547.1,
+    "unique_states": 1,
+    "unique_ratio": 0.0001,
+    "harmony_hits": 0,
+    "harmony_rate_pct": 0.0
+  },
+  "symbolic_hash_chained": {
+    "cycles": 20000,
+    "mode": "hash-chained",
+    "seconds": 0.302,
+    "cycles_per_sec": 66225.8,
+    "unique_states": 877,
+    "unique_ratio": 0.0439,
+    "harmony_hits": 0,
+    "harmony_rate_pct": 0.0
+  },
+  "degeneracy_diagnostics": {
+    "degenerate": true,
+    "period": 14,
+    "first_repeat_at": 0,
+    "unique_states": 14,
+    "iterations": 300,
+    "entropy_bits": 3.8074,
+    "unique_ratio": 1.0,
+    "harmony_rate": 0.0,
+    "verdict": "ВИРОДЖЕННЯ: limit cycle period=14, унікальних станів 14/14 -> нуль нової інформації"
+  },
+  "harmony_census": {
+    "space": 16384,
+    "pentagram_ok": 616,
+    "heptagram_ok": 7198,
+    "both_ok": 0,
+    "pentagram_pct": 3.7598,
+    "heptagram_pct": 43.9331,
+    "both_pct": 0.0,
+    "or_pct": 47.6929,
+    "verdict": "О-гармонія (пента І гепта) НЕДОСЯЖНА: 0 кодів із 16384 — критерій суперечливий, тому стара система вічно крутилась із 0% гармонії"
+  },
+  "brute": {
+    "mode": "random",
+    "length": 6,
+    "alphabet_size": 26,
+    "space_size": 308915776,
+    "space_size_human": "3.089e+08",
+    "evaluated": 20000,
+    "coverage_pct": 0.006474257,
+    "coverage_honest": "перевірено 20000 із 3.089e+08 = 6.474e-03% — повний перебір неможливий",
+    "seconds": 0.218,
+    "evals_per_sec": 91633.0,
+    "note": "Перебір НЕ є пошуком 'ідеального коду О'. Це генератор випадкових рядків зі скорингом. Цінність = тільки якщо score підтвердиться людиною."
+  },
+  "net": {
+    "vocab": 96,
+    "params": 83136,
+    "train_chars": 108000,
+    "val_chars": 12000,
+    "steps": 200,
+    "loss_start": 4.573091410078629,
+    "loss_end": 2.7470737943243555,
+    "val_loss_start": 4.584823152228208,
+    "val_loss_end": 2.8201136151539217,
+    "perplexity_start": 97.9858570292752,
+    "perplexity_end": 16.778756884896588,
+    "seconds": 0.19765400886535645,
+    "steps_per_sec": 1011.869180635955,
+    "learned": true,
+    "note": "val_loss знизився -> навчання реальне"
+  },
+  "disk": {
+    "total_gb": 460.4,
+    "used_gb": 377.4,
+    "free_gb": 83.0,
+    "free_pct": 18.0
+  }
+}

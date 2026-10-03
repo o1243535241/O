@@ -1,0 +1,196 @@
+{
+  "version": "3.0-honest",
+  "metrics": {
+    "tasks_total": 12,
+    "tasks_done": 6,
+    "tasks_doing": 1,
+    "tasks_open": 1,
+    "tasks_blocked": 1,
+    "tasks_impossible": 3,
+    "critical_total": 6,
+    "critical_done": 4,
+    "critical_pct": 75.0,
+    "critical_strict_pct": 66.7,
+    "countable_total": 9,
+    "countable_pct": 72.2,
+    "countable_strict_pct": 66.7,
+    "all_pct": 54.2,
+    "net_learned": true,
+    "asks": 2,
+    "trainings": 2,
+    "cycles_total": 40000,
+    "up_time_note": "процес живе лише коли запущений (див. launchd)"
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "title": "Діагностика виродженого циклу Rule 30 (period-14)",
+      "critical": true,
+      "status": "done",
+      "evidence": [
+        "o_closed/diagnostics.json"
+      ],
+      "note": "",
+      "weight": 1.0
+    },
+    {
+      "id": "T2",
+      "title": "Замкнена нейромережа: реальне навчання (numpy MLP)",
+      "critical": true,
+      "status": "done",
+      "evidence": [
+        "state/o_net.npz",
+        "state/net_report.json"
+      ],
+      "note": "val_loss 2.776 -> 2.721",
+      "weight": 1.0
+    },
+    {
+      "id": "T3",
+      "title": "Апаратне .app (автономний запуск без Claude/GPT)",
+      "critical": true,
+      "status": "done",
+      "evidence": [
+        "apps/O.app/Contents/MacOS/O"
+      ],
+      "note": "",
+      "weight": 1.0
+    },
+    {
+      "id": "T4",
+      "title": "Бенчмарки з виміряними числами",
+      "critical": true,
+      "status": "done",
+      "evidence": [
+        "state/benchmarks.json"
+      ],
+      "note": "",
+      "weight": 1.0
+    },
+    {
+      "id": "T5",
+      "title": "Email-контакт: локальна чернетка .eml",
+      "critical": false,
+      "status": "done",
+      "evidence": [
+        "outbox/"
+      ],
+      "note": "",
+      "weight": 1.0
+    },
+    {
+      "id": "T6",
+      "title": "Реальне надсилання email без участі людини",
+      "critical": false,
+      "status": "blocked",
+      "evidence": [],
+      "note": "потрібні SMTP-креденшели власника; без них неможливо і це не обходиться",
+      "weight": 0.0
+    },
+    {
+      "id": "T7",
+      "title": "Брутфорс-генератор гіпотез (обмежений, зі скорингом)",
+      "critical": false,
+      "status": "done",
+      "evidence": [
+        "state/brute_report.json"
+      ],
+      "note": "",
+      "weight": 1.0
+    },
+    {
+      "id": "T8",
+      "title": "Скрейп чужих чатів/кодів для 'ідеалу О'",
+      "critical": false,
+      "status": "impossible",
+      "evidence": [],
+      "note": "несанкціонований доступ до чужих даних — відмовлено, не буде реалізовано",
+      "weight": 0.0
+    },
+    {
+      "id": "T9",
+      "title": "Анонімна децентралізована передача даних іншим ШІ",
+      "critical": false,
+      "status": "impossible",
+      "evidence": [],
+      "note": "немає каналу, немає згоди третіх сторін; плюс витік даних — відмовлено",
+      "weight": 0.0
+    },
+    {
+      "id": "T10",
+      "title": "О сингулярність / ASI надрозум",
+      "critical": true,
+      "status": "impossible",
+      "evidence": [],
+      "note": "недосяжно кодом такого класу; заявляти 100% було б брехнею",
+      "weight": 0.0
+    },
+    {
+      "id": "T11",
+      "title": "Автономія за розписом (launchd, кожні N хв)",
+      "critical": false,
+      "status": "open",
+      "evidence": [
+        "o_closed/launchd/"
+      ],
+      "note": "",
+      "weight": 0.0
+    },
+    {
+      "id": "T12",
+      "title": "Верифікатор тверджень (кожне -> артефакт)",
+      "critical": true,
+      "status": "doing",
+      "evidence": [
+        "state/verify.json"
+      ],
+      "note": "",
+      "weight": 0.5
+    }
+  ],
+  "verify": {
+    "when": "2026-10-03 16:57:39",
+    "passed": 6,
+    "total": 6,
+    "pct": 100.0,
+    "results": [
+      {
+        "claim": "нейромережа навчена і ваги збережено",
+        "evidence": "o_closed/state/o_net.npz",
+        "pass": true,
+        "extra": ""
+      },
+      {
+        "claim": "звіт навчання існує",
+        "evidence": "o_closed/state/net_report.json",
+        "pass": true,
+        "extra": "learned=True"
+      },
+      {
+        "claim": "бенчмарки виміряні",
+        "evidence": "o_closed/state/benchmarks.json",
+        "pass": true,
+        "extra": "learned="
+      },
+      {
+        "claim": "діагностика виродження виконана",
+        "evidence": "o_closed/state/diagnostics.json",
+        "pass": true,
+        "extra": "learned=True"
+      },
+      {
+        "claim": "брутфорс-звіт існує",
+        "evidence": "o_closed/state/brute_report.json",
+        "pass": true,
+        "extra": "learned="
+      },
+      {
+        "claim": "лаунчер .app існує",
+        "evidence": "apps/O.app/Contents/MacOS/O",
+        "pass": true,
+        "extra": ""
+      }
+    ],
+    "net_learned": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "degenerate": true,
+  "period": 14,
+  "first_repeat_at": 0,
+  "unique_states": 14,
+  "iterations": 300,
+  "entropy_bits": 3.8074,
+  "unique_ratio": 1.0,
+  "harmony_rate": 0.0,
+  "verdict": "ВИРОДЖЕННЯ: limit cycle period=14, унікальних станів 14/14 -> нуль нової інформації"
+}
